@@ -2,7 +2,7 @@
 - 👀 I’m interested in Testing
 - 🌱 I’m currently learning Penetration Testing
 - 💞️ I’m looking to collaborate on Automation - Selenium, REST Assured
-- 📫 Reach me at mylifeakarma
+- 📫 Reach me @mylifeakarma
 
 <!---
 mylifeakarma/mylifeakarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
