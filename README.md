@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mylifeakarma
+- 👋 Hi, I’m @mylifeisdejavu
 - 👀 I’m interested in Testing
 - 🌱 I’m currently learning Penetration Testing
 - 💞️ I’m looking to collaborate on Automation - Selenium, REST Assured
